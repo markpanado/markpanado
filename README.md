@@ -7,4 +7,4 @@
     <br>
 </div>
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=markpanado)](https://github.com/marshallku/gitgarden)
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=markpanado&year=2024)](https://github.com/marshallku/gitgarden)
