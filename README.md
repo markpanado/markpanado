@@ -5,7 +5,6 @@
     <p align="center">Hello, World! {😻}</p>
     <br>
     <br>
-    [![GitGarden](https://gitgarden.marshallku.dev/?user_name=markpanado)](https://github.com/marshallku/gitgarden)
-    <br>
-    <br>
 </div>
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=markpanado)](https://github.com/marshallku/gitgarden)
